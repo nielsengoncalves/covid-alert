@@ -1,0 +1,43 @@
+{
+  "data": {
+    "coordinates": {
+      "latitude": -10,
+      "longitude": -55
+    },
+    "name": "Brazil",
+    "code": "BR",
+    "population": 201103330,
+    "updated_at": "2020-11-22T18:26:56.152Z",
+    "today": {
+      "deaths": 25,
+      "confirmed": 0
+    },
+    "latest_data": {
+      "deaths": 168687,
+      "confirmed": 6020164,
+      "recovered": 5422102,
+      "critical": 429375,
+      "calculated": {
+        "death_rate": 2.8020333000894992,
+        "recovery_rate": 90.06568591819092,
+        "recovered_vs_death_ratio": null,
+        "cases_per_million_population": 8318
+      }
+    },
+    "timeline": [
+      {
+        "updated_at": "2020-11-21T19:55:32.370Z",
+        "date": "2020-11-21",
+        "deaths": 168687,
+        "confirmed": 6020164,
+        "active": 429375,
+        "recovered": 5422102,
+        "new_confirmed": 108406,
+        "new_recovered": 63803,
+        "new_deaths": 1988,
+        "is_in_progress": true
+      }
+    ]
+  },
+  "_cacheHit": false
+}
