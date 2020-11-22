@@ -35,7 +35,7 @@ Content-Type: application/json
 Transfer-Encoding: chunked
 Date: Sun, 22 Nov 2020 20:35:58 GMT
 
-{"countryName":"Brazil","alertLevel":"YELLOW"}
+{"countryName":"Brazil","alertLevel":"yellow"}
 ```
 
 ## Tools used
